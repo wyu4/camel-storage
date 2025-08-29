@@ -1,13 +1,18 @@
 [
     [
         {
-            "time": "4:00 PM",
+            "time": "04:00 PM",
             "name": "This is an event."
         },
         {
-            "time": "6:00 PM",
+            "time": "06:00 PM",
             "name": "This is another event."
         }
     ],
-    []
+    [
+        {
+            "time": "00:00 PM",
+            "name": "There are no events happening today."
+        }
+    ]
 ]
