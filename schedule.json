@@ -1,5 +1,5 @@
-{
-    "1": [
+[
+    [
         {
             "time": "4:00 PM",
             "name": "This is an event."
@@ -9,6 +9,5 @@
             "name": "This is another event."
         }
     ],
-    "2": []
-
-}
+    []
+]
