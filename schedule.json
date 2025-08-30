@@ -7,18 +7,24 @@
         {
             "time": "06:00 PM",
             "name": "This is another event."
+        },
+        {
+            "time": "08:00 PM",
+            "name": "These events are not hardcoded."
+        },
+        {
+            "time": "11:00 PM",
+            "name": "They're stored in schedule.json, in a different repository."
         }
     ],
     [
         {
-            "time": "00:00 PM",
+            "time": "00:00 AM",
             "name": "There are no events happening today."
-        }
-    ],
-    [
+        },
         {
-            "time": "00:00 PM",
-            "name": "There are no events happening today."
+            "time": "01:00 AM",
+            "name": "There really aren't."
         }
     ]
 ]
