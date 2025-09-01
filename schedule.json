@@ -1,15 +1,15 @@
 [
     [
         {
-            "time": "04:00 PM",
+            "time": "4:00 PM",
             "name": "This is an event."
         },
         {
-            "time": "06:00 PM",
+            "time": "6:00 PM",
             "name": "This is another event."
         },
         {
-            "time": "08:00 PM",
+            "time": "8:00 PM",
             "name": "These events are not hardcoded."
         },
         {
@@ -19,11 +19,11 @@
     ],
     [
         {
-            "time": "00:00 AM",
+            "time": "0:00 AM",
             "name": "There are no events happening today."
         },
         {
-            "time": "01:00 AM",
+            "time": "1:00 AM",
             "name": "There really aren't."
         }
     ]
