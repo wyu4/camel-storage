@@ -1,0 +1,22 @@
+{
+    "judges": [
+        {
+            "icon": "",
+            "name": "John Doe",
+            "label": "Incognito Prof",
+            "socials": {
+                
+            }
+        }
+    ],
+    "mentors": [
+        {
+            "icon": "",
+            "name": "John Doe",
+            "label": "Incognito Student",
+            "socials": {
+                
+            }
+        }
+    ]
+}
