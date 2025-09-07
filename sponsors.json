@@ -37,6 +37,10 @@
             },
             {
                 "name": "company",
+                "icon": "media/YourCompany.svg"
+            },
+            {
+                "name": "company",
                 "icon": "media/Incognito.svg"
             }
         ]
