@@ -1,49 +1,12 @@
 {
     "tiers": {
-        "byte": [
-            {
-                "name": "company",
-                "icon": "media/Incognito.svg"
-            },
-            {
-                "name": "company",
-                "icon": "media/Incognito.svg"
-            }
-        ],
-        "kilobyte": [
-            {
-                "name": "company",
-                "icon": "media/Incognito.svg"
-            },
-            {
-                "name": "company",
-                "icon": "media/Incognito.svg"
-            }
-        ],
-        "megabyte": [
-            {
-                "name": "company",
-                "icon": "media/Incognito.svg"
-            },
-            {
-                "name": "company",
-                "icon": "media/Incognito.svg"
-            }
-        ],
-        "gigabyte": [
-            {
-                "name": "company",
-                "icon": "media/Incognito.svg"
-            },
-            {
+        "byte": [],
+        "kilobyte": [],
+        "megabyte": [],
+        "gigabyte": [{
                 "name": "company",
                 "icon": "media/YourCompany.png"
-            },
-            {
-                "name": "company",
-                "icon": "media/Incognito.svg"
-            }
-        ]
+            }]
     },
     "package": "media/SponsorshipPackage.pdf"
 }
