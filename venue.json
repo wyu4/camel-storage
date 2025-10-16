@@ -1,6 +1,6 @@
 {
     "name": "???",
-    "address": "???",
+    "address": "Test Address",
     "url": "",
-    "coordinates": []
+    "coordinates": [1,1]
 }
